@@ -5,7 +5,7 @@ import plotly.express as px
 #from numerize.numerize import numerize
 import time
 import os
-import seaborn as sns
+#import seaborn as sns
 import matplotlib.pyplot as plt
 import datetime
 import numpy as np
