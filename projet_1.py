@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import datetime
 import numpy as np
 import plotly.graph_objs as go
-from tabulate import tabulate
+#from tabulate import tabulate
 
 
 #from streamlit_extras.metric_cards import style_metric_cards
